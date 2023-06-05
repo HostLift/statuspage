@@ -22,17 +22,19 @@
     "url": "https://version.hostlift.lol",
     "icon": "https://icons.duckduckgo.com/ip3/version.hostlift.lol.ico",
     "slug": "version",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 342,
-    "timeWeek": 160,
-    "timeMonth": 197,
-    "timeYear": 197,
-    "dailyMinutesDown": {}
+    "time": 198,
+    "timeDay": 280,
+    "timeWeek": 167,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   }
 ]
