@@ -16,7 +16,7 @@
     "timeMonth": 199,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-05-09": 58,
+      "2024-05-09": 82,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -309,9 +309,9 @@
     "url": "https://version.hostlift.lol",
     "icon": "https://icons.duckduckgo.com/ip3/version.hostlift.lol.ico",
     "slug": "version",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -321,6 +321,7 @@
     "timeMonth": 200,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2023-06-05": 16
     }
   }
