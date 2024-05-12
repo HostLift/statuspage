@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/hostlift.lol.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "22.26%",
+    "uptime": "22.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.92%",
-    "uptimeMonth": "10.11%",
+    "uptimeWeek": "42.35%",
+    "uptimeMonth": "11.13%",
     "uptimeYear": "22.23%",
     "time": 281,
     "timeDay": 221,
@@ -309,7 +309,7 @@
     "url": "https://version.hostlift.lol",
     "icon": "https://icons.duckduckgo.com/ip3/version.hostlift.lol.ico",
     "slug": "version",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.55%",
@@ -321,6 +321,7 @@
     "timeMonth": 213,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2024-05-12": 0,
       "2024-05-09": 549,
       "2023-06-05": 16
     }
