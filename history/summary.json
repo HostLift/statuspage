@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hostlift.lol.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "25.32%",
+    "uptime": "25.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-08-30": 68,
+      "2024-08-31": 68,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
@@ -338,8 +339,7 @@
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
-      "2023-09-02": 1440,
-      "2023-09-01": 1440
+      "2023-09-02": 1440
     }
   },
   {
@@ -348,18 +348,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/version.hostlift.lol.ico",
     "slug": "version",
     "status": "down",
-    "uptime": "84.95%",
+    "uptime": "84.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.41%",
+    "uptimeYear": "80.14%",
     "time": 207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-08-30": 68,
+      "2024-08-31": 68,
+      "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
